@@ -3,11 +3,9 @@
     border-radius: 6px;
     box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
     color: #fff;
-    /* background-color: #aa9595; */
+    background-color: #e5c1c1;
     margin: 20px auto 0 auto;
     padding: 0 20px 20px 20px;
-    background: rgb(177,230,250);
-background: linear-gradient(36deg, rgba(177,230,250,1) 46%, rgba(248,241,247,1) 100%);
   }
   
   .top,
